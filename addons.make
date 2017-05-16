@@ -1,0 +1,6 @@
+ofxGui
+ofxInkSim
+ofxKinect
+ofxMoodMachine
+ofxThreadedImageLoader
+ofxVectorGraphics
