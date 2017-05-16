@@ -12,4 +12,6 @@ ofxMoodMachine
 
 All you have to do is run the program. I really wanted the piece to be completely controlled by the program without human interaction. So you do not need to pres anything to make it regenerate, and the color changes on its own. I wanted it to be completely generative.
 
-embed documentation video
+Here are video links:
+https://vimeo.com/216736541
+https://vimeo.com/217696392
